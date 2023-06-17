@@ -26,12 +26,12 @@ Overall, the front-end and back-end divisions collaborate to create a cohesive w
 2nd Answer:- 
 In HTML (Hypertext Markup Language), tags are used to define the structure and content of a web page. Tags are enclosed in angle brackets (<>) and typically come in pairs: an opening tag and a closing tag. The opening tag denotes the start of an element, and the closing tag marks the end of the element. Here are some categories of tags in HTML with examples:
 
-Headings Tags:
+.Headings Tags:
 
-<h1> to <h6>: These tags represent headings of different levels. <h1> is the highest level (main heading), while <h6> is the lowest level (subheading). Example: `<h1>This is a Heading</h1>`
-Paragraph Tags:
+.<h1> to <h6>: These tags represent headings of different levels. <h1> is the highest level (main heading), while <h6> is the lowest level (subheading). Example: `<h1>This is a Heading</h1>`
+.Paragraph Tags:
 
-<p>: This tag defines a paragraph of text. Example: `<p>This is a paragraph.</p>`
+.<p>: This tag defines a paragraph of text. Example: `<p>This is a paragraph.</p>;`
 Formatting Tags:
 
 <b>: This tag makes the text bold. Example: <b>Bold text</b>

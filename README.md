@@ -28,7 +28,7 @@ In HTML (Hypertext Markup Language), tags are used to define the structure and c
 
 .Headings Tags:
 
-.<h1> to <h6>: These tags represent headings of different levels. <h1> is the highest level (main heading), while <h6> is the lowest level (subheading). Example: `<h1>This is a Heading</h1>`
+<!<h1> to <h6>: These tags represent headings of different levels. <h1> is the highest level (main heading), while <h6> is the lowest level (subheading). Example: `<h1>This is a Heading</h1>`
 .Paragraph Tags:
 
 .<p>: This tag defines a paragraph of text. Example: `<p>This is a paragraph.</p>;`
@@ -85,7 +85,7 @@ Form Tags:
   <label for="name">Name:</label>
   <input type="text" id="name" name="name">
   <input type="submit" value="Submit">
-</form>
+</form>>
 ```
 Division Tags:
 
